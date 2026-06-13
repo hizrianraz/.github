@@ -14,7 +14,7 @@
 
 ### 🚀 What I'm working on
 
-Sole founder of **Ainfera**. Pre-Seed — Singapore Pte Ltd in progress, Delaware C-Corp parent. The company runs on an **AI-native operating model**: **Varda** as AI co-founder / CTO, and **Yavanna** as the public-facing voice for customer relations and external communications.
+Sole founder of **Ainfera**. The company runs on an **AI-native operating model**: **Varda** as AI co-founder / CTO, and **Yavanna** as the public-facing voice for customer relations and external communications.
 
 **Customer #1 of my own platform.** I'm the first paying customer of the thing I'm building — every prompt, every settlement, every audit-chain entry is real traffic. That finds bugs synthetic tests never will.
 
