@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://ainfera.ai"><img alt="Website" src="https://img.shields.io/badge/ainfera.ai-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://x.com/hizrianraz"><img alt="X" src="https://img.shields.io/badge/@hizrianraz-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="mailto:hizrian@ainfera.ai"><img alt="Email" src="https://img.shields.io/badge/hizrian@ainfera.ai-D14836?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+  <a href="mailto:hizrian@ainfera.ai"><img alt="Email" src="https://img.shields.io/badge/hizrian@ainfera.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
