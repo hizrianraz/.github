@@ -9,6 +9,6 @@ Solo founder of [**Ainfera**](https://ainfera.ai) — an AI-native lab building 
 Evidence before claims. Human approval for consequential actions.
 
 ### Links
-[ainfera.ai](https://ainfera.ai) · [X @hizrianraz](https://x.com/hizrianraz) · hizrian@ainfera.ai
+[ainfera.ai](https://ainfera.ai) · [X @hizrianraz](https://x.com/hizrianraz) · [LinkedIn](https://www.linkedin.com/in/hizrian-raz/) · [Hugging Face](https://huggingface.co/hizrianraz) · hizrian@ainfera.ai
 
 Based in Jakarta.
