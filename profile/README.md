@@ -2,11 +2,11 @@
 
 <p align="center">
   Solo founder of <a href="https://ainfera.ai"><b>Ainfera</b></a>.<br/>
-  I build <b>Neptune</b> — agent-native models from an evidence-gated factory.
+  I build <b>Neptune</b> — agent-native models, bound by evidence.
 </p>
 
 <p align="center">
-  <b>Built by agents, for agents — under receipts.</b>
+  <b>Models that finish work in the world — shipped only when the evidence holds.</b>
 </p>
 
 <p align="center">
@@ -23,13 +23,19 @@
 
 ### Philosophy
 
-- **Models are the product.** The agent loop is the unit of intelligence.
-- **Evidence beats enthusiasm.** Training completion is not a release criterion.
-- **Open Core proves. Closed specialists commercialize.**
-- **A factory that cannot refuse is a cost sink.**
-- **Dates are targets. Gates are law.**
+```text
+The unit is the loop, not the monologue.
+Proof before claim.
+Open Core verifies. Closed specialists deliver.
+Refusal is a feature.
+Class, not cosmos.
+```
 
-Claims stay inside a **preregistered local-agent class** — size, hardware, VRAM, latency, harness, quant — never unqualified “best model.”
+Neptune is native to the agent loop — tools, schemas, feedback, repair, completion — under a pinned protocol.  
+Not a chat model in costume.
+
+Ainfera is a **model factory**, not a routing company.  
+Agents help build. **Humans gate what ships.**
 
 ---
 
@@ -41,7 +47,7 @@ Claims stay inside a **preregistered local-agent class** — size, hardware, VRA
 | **Neptune Finance-70B** | Closed **agentic** finance specialist — tools, audit artifacts, compliance stops |
 | **Ainfera Factory** | Admit → pilot/train → seal → certificate → claim |
 
-Agent-native means plan → tool call → environment feedback → recover → finish — under a pinned harness, not chat polish alone.
+Claims stay inside a **preregistered local-agent class** — size, hardware, VRAM, latency, harness, quant — never unqualified “best model.”
 
 ---
 
@@ -58,7 +64,7 @@ Agent-native means plan → tool call → environment feedback → recover → f
 </p>
 
 <p>
-  <sub>Post-trains are earned (SFT → DPO → GRPO only with uplift), then sealed eval and quant certificates.</sub>
+  <sub>Post-trains are earned (SFT → DPO → GRPO only with uplift), then sealed eval and quant certificates. Dates target; gates decide.</sub>
 </p>
 
 ---
