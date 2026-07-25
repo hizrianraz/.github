@@ -43,7 +43,7 @@ Agents help build. **Humans gate what ships.**
 
 | Track | Intent |
 |-------|--------|
-| **Neptune** `27B` / `9B` | Open proof Core when certificates clear (independent chains) |
+| **Neptune** `27B` + quant SKUs | Open proof Core and same-net edge quant delivery when certificates clear |
 | **Neptune Finance-70B** | Closed **agentic** finance specialist — tools, audit artifacts, compliance stops |
 | **Ainfera Factory** | Admit → pilot/train → seal → certificate → claim |
 
