@@ -39,6 +39,21 @@ Agents help build. **Humans gate what ships.**
 
 ---
 
+### Public measured packs (personal)
+
+Evidence-gated runtime packs + official Q4_K_M GGUF mirrors (byte-identical upstream Poolside Laguna in the GGUF repos).
+
+| Family | Weights (GGUF) | Runtime pack | Proof |
+|--------|----------------|--------------|--------|
+| **Laguna-S-2.1** | [GGUF](https://huggingface.co/hizrianraz/Laguna-S-2.1-GGUF) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-GGUF) | [Spark Agentic](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic) | **40/40** agent_smoke · **27/27** hermes on DGX Spark |
+| **Laguna-XS-2.1** | [GGUF](https://huggingface.co/hizrianraz/Laguna-XS-2.1-GGUF) · [GH](https://github.com/hizrianraz/Laguna-XS-2.1-GGUF) | [Mac Agentic](https://huggingface.co/hizrianraz/Laguna-XS-2.1-Mac-Agentic) · [GH](https://github.com/hizrianraz/Laguna-XS-2.1-Mac-Agentic) | Research / prep — disk≠load≠smoke |
+
+Also: Qwen3-Coder and DeepSeek-V4-Flash Spark/Mac agentic packs on the same personal HF account.
+
+Rule: **official quant bytes** (no boutique re-quant) + **pinned engine** + **fixed smoke** — not an unmeasured rename.
+
+---
+
 ### Building
 
 | Track | Intent |
@@ -76,5 +91,7 @@ Claims stay inside a **preregistered local-agent class** — size, hardware, VRA
     <a href="https://github.com/ainfera-ai">github.com/ainfera-ai</a>
     ·
     <a href="https://huggingface.co/ainfera-ai">huggingface.co/ainfera-ai</a>
+    ·
+    <a href="https://huggingface.co/hizrianraz">huggingface.co/hizrianraz</a>
   </sub>
 </p>
