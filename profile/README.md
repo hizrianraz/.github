@@ -99,16 +99,19 @@ Scripts · pins · cards · eval receipts.
 | 03 | **[DeepSeek-V4-Flash REAP25](https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic) | Long-context **investigation** · REAP25/Pulsar | Experimental · **no hero** |
 
 <p align="center">
-  <a href="https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hizrianraz&repo=Laguna-S-2.1-Spark-Agentic&theme=react&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=C9D1D9" alt="Laguna-S-2.1" /></a>
-  <a href="https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hizrianraz&repo=Qwen3-Coder-Next-Spark-Agentic&theme=react&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=C9D1D9" alt="Qwen3-Coder-Next" /></a>
+  <a href="https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic"><img alt="Laguna-S Spark" src="https://img.shields.io/badge/01_Laguna--S--2.1-Measured_day--0-22C55E?style=for-the-badge&labelColor=0B1020" /></a>
+  <a href="https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic"><img alt="Qwen3-Coder-Next" src="https://img.shields.io/badge/02_Qwen3--Coder--Next-Day--0_path-6366F1?style=for-the-badge&labelColor=0B1020" /></a>
+  <a href="https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic"><img alt="DeepSeek REAP25" src="https://img.shields.io/badge/03_DeepSeek_REAP25-Experimental-F59E0B?style=for-the-badge&labelColor=0B1020" /></a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hizrianraz&repo=DeepSeek-V4-Flash-REAP25-Spark-Agentic&theme=react&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=C9D1D9" alt="DeepSeek REAP25" /></a>
-  <a href="https://github.com/hizrianraz/Laguna-XS-2.1-Mac-Agentic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hizrianraz&repo=Laguna-XS-2.1-Mac-Agentic&theme=react&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=C9D1D9" alt="Laguna-XS Mac" /></a>
+  <a href="https://github.com/hizrianraz/Laguna-XS-2.1-Mac-Agentic"><img alt="Laguna-XS Mac" src="https://img.shields.io/badge/Mac_Laguna--XS--2.1-unmeasured-64748B?style=for-the-badge&labelColor=0B1020" /></a>
+  <a href="https://github.com/hizrianraz/Qwen3-Coder-30B-A3B-Mac-Agentic"><img alt="Qwen 30B Mac" src="https://img.shields.io/badge/Mac_Qwen3--Coder--30B-unmeasured-64748B?style=for-the-badge&labelColor=0B1020" /></a>
+  <a href="https://huggingface.co/hizrianraz"><img alt="HF models" src="https://img.shields.io/badge/Hugging_Face-models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0B1020" /></a>
 </p>
 
 Also on Mac (not Spark heroes):  
-[Laguna-XS-2.1](https://huggingface.co/hizrianraz/Laguna-XS-2.1-Mac-Agentic) · [Qwen3-Coder-30B-A3B](https://huggingface.co/hizrianraz/Qwen3-Coder-30B-A3B-Mac-Agentic)
+[Laguna-XS-2.1](https://github.com/hizrianraz/Laguna-XS-2.1-Mac-Agentic) · [Qwen3-Coder-30B-A3B](https://github.com/hizrianraz/Qwen3-Coder-30B-A3B-Mac-Agentic)
 
 <details>
 <summary><strong>Size · pins · windows</strong></summary>
@@ -180,18 +183,23 @@ Public claim binder for every Spark pack:
 
 ---
 
-## GitHub pulse
+## Surface
 
-<div align="center">
+Static links only — no third-party stats widgets (those CDN pins break and show empty images).
 
-<img height="160" alt="stats" src="https://github-readme-stats.vercel.app/api?username=hizrianraz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=C9D1D9&ring_color=818CF8" />
-<img height="160" alt="streak" src="https://streak-stats.demolab.com/?user=hizrianraz&theme=react&hide_border=true&background=0D1117&ring=818CF8&fire=F472B6&currStreakLabel=A5B4FC" />
+<p align="center">
+  <a href="https://github.com/hizrianraz?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/GitHub-public_repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" /></a>
+  <a href="https://github.com/ainfera-ai"><img alt="Ainfera org" src="https://img.shields.io/badge/Org-ainfera--ai-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" /></a>
+  <a href="https://huggingface.co/hizrianraz"><img alt="HF" src="https://img.shields.io/badge/HF-hizrianraz-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0B1020" /></a>
+  <a href="https://x.com/hizrianraz"><img alt="X" src="https://img.shields.io/badge/X-@hizrianraz-111827?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1020" /></a>
+</p>
 
-<br/>
-
-<img height="160" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizrianraz&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9" />
-
-</div>
+| Track | Home |
+| --- | --- |
+| Personal packs | [github.com/hizrianraz](https://github.com/hizrianraz) |
+| Company | [ainfera.ai](https://www.ainfera.ai) · [@ainfera-ai](https://github.com/ainfera-ai) |
+| Models | [huggingface.co/hizrianraz](https://huggingface.co/hizrianraz) |
+| Profile binder | [`SPARK_AGENTIC_QUANT_STANDARD.md`](./SPARK_AGENTIC_QUANT_STANDARD.md) |
 
 ---
 
@@ -201,7 +209,7 @@ Public claim binder for every Spark pack:
 | --- | --- |
 | **Company** | [ainfera.ai](https://www.ainfera.ai) · [@ainfera-ai](https://github.com/ainfera-ai) |
 | **Models** | [huggingface.co/hizrianraz](https://huggingface.co/hizrianraz) |
-| **Profile mirror** | [huggingface.co/hizrianraz/profile](https://huggingface.co/hizrianraz/profile) |
+| **HF profile space** | [huggingface.co/hizrianraz/hizrianraz](https://huggingface.co/hizrianraz/hizrianraz) |
 | **Pack questions** | open a discussion on the relevant HF repo |
 
 ---
