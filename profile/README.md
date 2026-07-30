@@ -41,34 +41,41 @@ Agents help build. **Humans gate what ships.**
 
 ### Public Spark packs — list Aug 3 · promote Aug 3–5 (personal)
 
-Independent runtime packs on DGX Spark. **Not** Ainfera product marketing.  
+Role-specialized leaders on one DGX Spark — **not** three identical wrappers.  
+Measured under one standard (agentic retention · secure deploy · independent repro).  
+Independent work. **Not** Ainfera product marketing.
+
 **List** all three + collection: **2026-08-03 12:00 WIB**.  
 **Hero CTAs (sequential):** Laguna **Aug 3 20:00** → Qwen **Aug 4 20:00** → DeepSeek **Aug 5 20:00** only if evidence gate.  
 `public_promo_before_launch: false` · freeze **2026-08-02 18:00 WIB**.  
-`diy_gguf: false` — official upstream bytes only. Packs host **runbooks + harness + receipts**, not weight files.
+`diy_gguf: false` on Laguna GGUF mirrors — official upstream bytes.  
+Packs = **runbooks + harness + receipts** (weights live on upstream or locked checkpoint repos).
 
-| Order | Pack | Role | Proof | Hero CTA | Links |
-|------:|------|------|-------|----------|-------|
-| 1 | **Laguna-S-2.1** | **Flagship measured** | **40/40** agent_smoke (tool-format / routing) | Aug 3 20:00 WIB | [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic) |
-| 2 | **Qwen3-Coder-Next** | **Second-wave probe** | **2/2 probe** — not ship / gate claim | Aug 4 20:00 WIB | [HF](https://huggingface.co/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) · [GH](https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) |
-| 3 | **DeepSeek-V4-Flash** | **Experimental / hold** | **Unmeasured** until gate — docs + harness | Aug 5 20:00 only if gate | [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-Spark-Agentic) · [GH](https://github.com/hizrianraz/DeepSeek-V4-Flash-Spark-Agentic) |
+| Order | Pack | Specialization | Day-0 stance | Hero CTA | Links |
+|------:|------|----------------|--------------|----------|-------|
+| 1 | **Laguna-S-2.1** | Long-horizon **repo-maintenance** · official NVFP4+DFlash | Flagship RC path · smoke ≠ agent headline | Aug 3 20:00 WIB | [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic) |
+| 2 | **Qwen3-Coder-Next** | Interactive **throughput + concurrency** · quality FP8 | FP8 profile · NVFP4 agent-cal = preview | Aug 4 20:00 WIB | [HF](https://huggingface.co/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) · [GH](https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) |
+| 3 | **DeepSeek-V4-Flash-REAP25** | Experimental **long-context investigation** · REAP25/Pulsar (~85 GiB) | Full official ~155 GiB **no-fit** one Spark · unmeasured until gate | Aug 5 20:00 only if gate | [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic) · [GH](https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic) |
 
-**Weights authority (not this account):**  
-[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) · [poolside/Laguna-S-2.1-GGUF](https://huggingface.co/poolside/Laguna-S-2.1-GGUF) · [Qwen/Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) · [deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)
+**Canonical artifacts (authority):**  
+[poolside/Laguna-S-2.1-NVFP4](https://huggingface.co/poolside/Laguna-S-2.1-NVFP4) · [Qwen/Qwen3-Coder-Next-FP8](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8) · [twaggs88 REAP25 DSpark GGUF](https://huggingface.co/twaggs88/DeepSeek-V4-Flash-REAP25-DSpark-ds4-GGUF) · upstreams [poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) · [Qwen/Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) · [deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)
 
-Optional Laguna-S GGUF mirror (byte-identical upstream · not re-quantized here): [hizrianraz/Laguna-S-2.1-GGUF](https://huggingface.co/hizrianraz/Laguna-S-2.1-GGUF)
+Optional Laguna-S GGUF mirror (byte-identical · not re-quantized here): [hizrianraz/Laguna-S-2.1-GGUF](https://huggingface.co/hizrianraz/Laguna-S-2.1-GGUF)
 
-Collection (rename at list): [Three Frontier Coding Models on One DGX Spark](https://huggingface.co/collections/hizrianraz/dgx-spark-agentic-deployment-packs-6a6a3110ad1c4397372a3ef6)
+Collection (title at list): [Three Frontier Coding Models on One DGX Spark](https://huggingface.co/collections/hizrianraz/dgx-spark-agentic-deployment-packs-6a6a3110ad1c4397372a3ef6)
 
 **Honesty**
 
+- Quantization does not make an upstream model smarter — retention + security + repro is the claim  
 - Deployment packs are **runbooks + harness + receipts**, not loadable checkpoints  
 - Download counters on packs may stay **0** — Hub counts designated weight/file GETs, not scripts  
-- Sole flagship measured claim = **Laguna S**  
-- Qwen probe ≠ gate clearance · DeepSeek co-list ≠ measured ship  
+- Sole day-0 flagship path = **Laguna S** (when security + closed-loop hold)  
+- Qwen FP8 ≠ NVFP4 speed claim · DeepSeek co-list ≠ full official on one Spark · DSpark ≠ DGX Spark  
+- Smoke scores = tool-format / routing only — not long-horizon agent reliability  
 - Verifier ≠ gate clearance  
-- No incentivized likes · no dummy download loops  
-- Mirrors never set `quantized_by: hizrianraz`
+- No incentivized likes · no dummy download loops · no inherited BF16 scores as our quant  
+- Mirrors never set `quantized_by: hizrianraz`  
+- Legacy DeepSeek id `DeepSeek-V4-Flash-Spark-Agentic` **redirects** → `DeepSeek-V4-Flash-REAP25-Spark-Agentic`
 
 Parked / lab-only (not Aug 3 ship surface): Laguna-XS Mac, Qwen3-Coder-30B-A3B Mac.
 
