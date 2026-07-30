@@ -39,18 +39,34 @@ Agents help build. **Humans gate what ships.**
 
 ---
 
-### Public measured packs (personal)
+### Public Spark packs — Aug 3 2026 (personal)
 
-Evidence-gated runtime packs + official Q4_K_M GGUF mirrors (byte-identical upstream Poolside Laguna in the GGUF repos).
+Independent runtime packs on DGX Spark. **Not** Ainfera product marketing.  
+`public_promo_before_launch: false` until **2026-08-03 12:00 WIB** (freeze **2026-08-02 18:00 WIB**).  
+`diy_gguf: false` — official upstream bytes only.
 
-| Family | Weights (GGUF) | Runtime pack | Proof |
-|--------|----------------|--------------|--------|
-| **Laguna-S-2.1** | [GGUF](https://huggingface.co/hizrianraz/Laguna-S-2.1-GGUF) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-GGUF) | [Spark Agentic](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic) | **40/40** agent_smoke · **27/27** hermes on DGX Spark |
-| **Laguna-XS-2.1** | [GGUF](https://huggingface.co/hizrianraz/Laguna-XS-2.1-GGUF) · [GH](https://github.com/hizrianraz/Laguna-XS-2.1-GGUF) | [Mac Agentic](https://huggingface.co/hizrianraz/Laguna-XS-2.1-Mac-Agentic) · [GH](https://github.com/hizrianraz/Laguna-XS-2.1-Mac-Agentic) | Research / prep — disk≠load≠smoke |
+| Order | Pack | Role | Proof | Links |
+|------:|------|------|-------|-------|
+| 1 | **Laguna-S-2.1** | **Flagship measured** | **40/40** agent_smoke (tool-format / routing regression) | [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic) |
+| 2 | **Qwen3-Coder-Next** | **Co-ship probe** | **2/2 probe** — not a ship / gate claim | [HF](https://huggingface.co/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) · [GH](https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) |
+| 3 | **DeepSeek-V4-Flash** | **Co-list scaffold** | **Unmeasured** — public docs surface, no ship claim | [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-Spark-Agentic) · [GH](https://github.com/hizrianraz/DeepSeek-V4-Flash-Spark-Agentic) |
 
-Also: Qwen3-Coder and DeepSeek-V4-Flash Spark/Mac agentic packs on the same personal HF account.
+**Weights authority (not this account):**  
+[poolside/Laguna-S-2.1-GGUF](https://huggingface.co/poolside/Laguna-S-2.1-GGUF) · [Qwen/Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) · [deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)
 
-Rule: **official quant bytes** (no boutique re-quant) + **pinned engine** + **fixed smoke** — not an unmeasured rename.
+Optional Laguna-S GGUF mirror (byte-identical upstream · not re-quantized here): [hizrianraz/Laguna-S-2.1-GGUF](https://huggingface.co/hizrianraz/Laguna-S-2.1-GGUF)
+
+Collection: [DGX Spark Agentic Deployment Packs](https://huggingface.co/collections/hizrianraz/dgx-spark-agentic-deployment-packs-6a6a3110ad1c4397372a3ef6)
+
+**Honesty**
+
+- Deployment packs are **runbooks + harness + receipts**, not loadable checkpoints  
+- Sole flagship measured claim = **Laguna S**  
+- Qwen probe ≠ gate clearance · DeepSeek co-list ≠ measured ship  
+- Verifier ≠ gate clearance  
+- Mirrors never set `quantized_by: hizrianraz`
+
+Parked / lab-only (not Aug 3 ship surface): Laguna-XS Mac, Qwen3-Coder-30B-A3B Mac.
 
 ---
 
@@ -58,7 +74,7 @@ Rule: **official quant bytes** (no boutique re-quant) + **pinned engine** + **fi
 
 | Track | Intent |
 |-------|--------|
-| **Neptune** `27B` + quant SKUs | Open proof Core and same-net edge quant delivery when certificates clear |
+| **Neptune** + quant SKUs | Open proof Core and same-net edge quant delivery when certificates clear |
 | **Ainfera Factory** | Admit → pilot/train → seal → certificate → claim |
 
 Claims stay inside a **preregistered local-agent class** — size, hardware, VRAM, latency, harness, quant — never unqualified “best model.”
