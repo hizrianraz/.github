@@ -18,7 +18,7 @@
 ### Philosopher · Wanderer · Neurodivergent · Founder
 
 Building **[Ainfera](https://www.ainfera.ai)** — an **AI-Native model factory**.  
-On the side: personal measured packs for one box. Receipts over hype.
+On the side: personal deployment packs for one box. Only Laguna is measured; receipts over hype.
 
 <br/>
 
@@ -56,7 +56,7 @@ I'm a founder who cares more about **what actually runs** than what trends.
 | Domain | What I actually do |
 | --- | --- |
 | **Model systems** | Serve paths, quant honesty, agentic runbooks, eval receipts |
-| **Inference craft** | llama.cpp / GGUF pins, FP8 quality tracks, single-node MoE fit |
+| **Inference craft** | llama.cpp / GGUF pins, FP8 deployment previews, single-node MoE fit research |
 | **Agent loops** | Tool-use harnesses, format/routing smoke, hermes-style checks |
 | **Evidence discipline** | Digests, freeze clocks, SAQS claim binder, smoke ≠ headline |
 | **Product eng** | TypeScript surfaces, Python toolchains, shell pack automation |
@@ -88,52 +88,55 @@ I'm a founder who cares more about **what actually runs** than what trends.
 
 ## Focus right now
 
-Personal measured stack on **one DGX Spark** (GB10 · 128 GB).
+Personal deployment stack on **one DGX Spark** (GB10 · 128 GB). Only Laguna currently has family measurement authority.
 
 Scripts · pins · cards · eval receipts.  
 **Not finetunes. Not company IP. Not stretch claims.**
 
 | # | Pack | Role (honest) | Status |
 | :---: | --- | --- | --- |
-| 01 | **[Laguna-S-2.1](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) | Long-horizon **repo maintenance** · official Q4_K_M | **Measured** day-0 |
-| 02 | **[Qwen3-Coder-Next](https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) | Interactive **throughput** · quality **FP8** | Day-0 path |
-| 03 | **[DeepSeek-V4-Flash REAP25](https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic) | Long-context **investigation** · REAP25/Pulsar | Experimental · **no hero** |
+| 01 | **[Laguna-S-2.1](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) | Repo-maintenance deployment target · official Q4_K_M | Historical measured path · source candidate · freeze pending |
+| 02 | **[Qwen3-Coder-Next](https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) | Interactive coding · official FP8 | **Preview** · exact runtime model-load pending |
+| 03 | **[DeepSeek-V4-Flash REAP25](https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic) | Research pointer · REAP25/Pulsar reference | Docs-only **HOLD / NO_HERO** |
 
 <p align="center">
-  <a href="https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic"><img alt="Laguna-S Spark" src="https://img.shields.io/badge/01_Laguna--S--2.1-Measured_day--0-22C55E?style=for-the-badge&labelColor=0B1020" /></a>
-  <a href="https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic"><img alt="Qwen3-Coder-Next" src="https://img.shields.io/badge/02_Qwen3--Coder--Next-Day--0_path-6366F1?style=for-the-badge&labelColor=0B1020" /></a>
-  <a href="https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic"><img alt="DeepSeek REAP25" src="https://img.shields.io/badge/03_DeepSeek_REAP25-Experimental-F59E0B?style=for-the-badge&labelColor=0B1020" /></a>
+  <a href="https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic"><img alt="Laguna-S Spark" src="https://img.shields.io/badge/01_Laguna--S--2.1-Freeze_candidate-22C55E?style=for-the-badge&labelColor=0B1020" /></a>
+  <a href="https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic"><img alt="Qwen3-Coder-Next" src="https://img.shields.io/badge/02_Qwen3--Coder--Next-Preview-6366F1?style=for-the-badge&labelColor=0B1020" /></a>
+  <a href="https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic"><img alt="DeepSeek REAP25" src="https://img.shields.io/badge/03_DeepSeek_REAP25-HOLD_NO--HERO-F59E0B?style=for-the-badge&labelColor=0B1020" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hizrianraz/Laguna-XS-2.1-Mac-Agentic"><img alt="Laguna-XS Mac" src="https://img.shields.io/badge/Mac_Laguna--XS--2.1-unmeasured-64748B?style=for-the-badge&labelColor=0B1020" /></a>
-  <a href="https://github.com/hizrianraz/Qwen3-Coder-30B-A3B-Mac-Agentic"><img alt="Qwen 30B Mac" src="https://img.shields.io/badge/Mac_Qwen3--Coder--30B-unmeasured-64748B?style=for-the-badge&labelColor=0B1020" /></a>
   <a href="https://huggingface.co/hizrianraz"><img alt="HF models" src="https://img.shields.io/badge/Hugging_Face-models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0B1020" /></a>
 </p>
-
-Also on Mac (not Spark heroes):  
-[Laguna-XS-2.1](https://github.com/hizrianraz/Laguna-XS-2.1-Mac-Agentic) · [Qwen3-Coder-30B-A3B](https://github.com/hizrianraz/Qwen3-Coder-30B-A3B-Mac-Agentic)
 
 <details>
 <summary><strong>Size · pins · windows</strong></summary>
 
 <br/>
 
-**Window (WIB)**  
-List target `2026-08-03 12:00` · freeze target `2026-08-02 18:00`  
-Both clocks stay blocked until local HOLD lifts.
+**Window (WIB)**
 
-**Hero CTAs (sequential)**  
-Laguna `Aug 3 20:00` → Qwen `Aug 4 20:00` → DeepSeek `null` (NO_HERO default)
+List target `2026-08-03 12:00` · freeze target `2026-08-02 18:00`<br/>
+Release stays blocked until the August 2 freeze attestation passes across source, Hub, runtime safety, and claims.
 
-**Laguna day-0 measured artifact**  
-`hizrianraz/Laguna-S-2.1-GGUF` · `laguna-s-2.1-Q4_K_M.gguf`  
-sha256 `a8b55c75714ea73fd90ec85de5defdc0b8d88ca0ad2108343cdd8fc22f7583e4`  
-engine pin `04b2b72` (`poolside/llama.cpp-laguna`) · measure tip `bf82eab`  
-format/routing smoke 40/40 · hermes 27/27 · ~21.47 t/s gen128  
+**Hero CTAs**
+
+Laguna `Aug 3 20:00` only after explicit freeze clearance · Qwen `null` until a dated `:8001` remeasurement and explicit gate · DeepSeek `null` (`NO_HERO`)
+
+**Laguna day-0 measured artifact**
+
+`poolside/Laguna-S-2.1-GGUF` · `laguna-s-2.1-Q4_K_M.gguf`<br/>
+sha256 `a8b55c75714ea73fd90ec85de5defdc0b8d88ca0ad2108343cdd8fc22f7583e4`<br/>
+engine pin `04b2b72` ([`poolsideai/llama.cpp`](https://github.com/poolsideai/llama.cpp), branch `laguna`) · measure tip `bf82eab`<br/>
+format/routing smoke 40/40 · Hermes 27/27 **validated-not-executed** · ~21.47 t/s gen128<br/>
 → **not** long-horizon agent reliability proof · DFlash/NVFP4 **not** day-0 flagship
 
-**Upstream / quality refs** (not day-0 serve authority)  
+**Official DeepSeek DSpark footprint reference**
+
+[`deepseek-ai/DeepSeek-V4-Flash-DSpark`](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark/tree/62af8fffb2f7030cac4de2f0169f5b8d1101b646) at revision `62af8fffb2f7030cac4de2f0169f5b8d1101b646`: weight files total `166,886,535,336` bytes (`155.425198` GiB). Repository-file accounting only; not a runtime measurement.
+
+**Upstream / quality refs** (not day-0 serve authority)
+
 [poolside/Laguna-S-2.1-NVFP4](https://huggingface.co/poolside/Laguna-S-2.1-NVFP4) · [Qwen/Qwen3-Coder-Next-FP8](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8) · [twaggs88 REAP25 DSpark GGUF](https://huggingface.co/twaggs88/DeepSeek-V4-Flash-REAP25-DSpark-ds4-GGUF) · bases [Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) · [Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) · [DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)
 
 </details>
@@ -161,13 +164,13 @@ Public claim binder for every Spark pack:
 
 <br/>
 
-- `diy_gguf = false` — Laguna GGUF mirror hosts **official Poolside** bytes only  
-- `public_promo_before_launch = false`  
-- smoke ≠ agent headline · evidence-bind ≠ gate  
-- Qwen day-0 forte = **FP8 quality** (not NVFP4 speed)  
-- DeepSeek day-0 = scaffold / experimental · **NO_HERO** default  
-- DSpark ≠ DGX Spark · peer GGUF ≠ full official DeepSeek V4 Flash (~155 GiB no-fit on one Spark)  
-- Packs are **not** Ainfera product surfaces, company eval, sales SKUs, or open finetunes  
+- `diy_gguf = false` — Laguna GGUF mirror hosts **official Poolside** bytes only
+- `public_promo_before_launch = false`
+- smoke ≠ agent headline · evidence-bind ≠ gate
+- Qwen day-0 = official-FP8 **Preview**, not a throughput, quality, retention, or tool-success claim
+- DeepSeek day-0 = docs-only, unmeasured **HOLD / NO_HERO** scaffold
+- DSpark ≠ DGX Spark · peer GGUF ≠ the official DSpark artifact; listing is not a fit claim
+- Packs are **not** Ainfera product surfaces, company eval, sales SKUs, or open finetunes
 
 </details>
 
@@ -178,7 +181,7 @@ Public claim binder for every Spark pack:
 ```text
 1  read README + INSTALL.yaml
 2  pull the named upstream  (or Laguna official GGUF + SHA256SUMS)
-3  run scripts/serve_*.sh   on one DGX Spark
+3  run Laguna only after its freeze + target receipt gates; run Qwen only as an explicit Preview; keep DeepSeek disabled
 4  diff results/            — smoke ≠ headline
 ```
 
@@ -213,7 +216,6 @@ Static links only — no third-party stats widgets (those CDN pins break and sho
 | **Company** | [ainfera.ai](https://www.ainfera.ai) · [@ainfera-ai](https://github.com/ainfera-ai) |
 | **LinkedIn** | [linkedin.com/in/hizrian-raz](https://www.linkedin.com/in/hizrian-raz) |
 | **Models** | [huggingface.co/hizrianraz](https://huggingface.co/hizrianraz) |
-| **HF profile space** | [huggingface.co/hizrianraz/hizrianraz](https://huggingface.co/hizrianraz/hizrianraz) |
 | **Pack questions** | open a discussion on the relevant HF repo |
 
 ---
