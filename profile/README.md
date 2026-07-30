@@ -15,6 +15,10 @@ Personal, unaffiliated measurement packs I maintain so I (and anyone reproducing
 
 Day-0 surface = **these three packs**. Weight trees stay on their **official / peer upstream** IDs.
 
+## Standard
+
+Public claim binder: each pack ships `SPARK_AGENTIC_QUANT_STANDARD.md` (SAQS). Smoke ≠ headline under that standard.
+
 ## Honesty locks (always on)
 
 - `diy_gguf = false` (Laguna GGUF mirror hosts **official Poolside** bytes only — pack ships digests + pull, not a DIY quant story)
@@ -32,7 +36,7 @@ Day-0 surface = **these three packs**. Weight trees stay on their **official / p
 
 | # | Pack | Role (honest) | Day-0 class | Hero CTA | Surfaces |
 | --- | --- | --- | --- | --- | --- |
-| 1 | **Laguna-S-2.1** | Long-horizon **repo-maintenance** · official **Q4_K_M** | **Measured** path on Q4_K_M + llama.cpp **04b2b72** · tip **a394d00** · format/routing smoke 40/40 · hermes 27/27 · ~21.47 t/s gen128 · **not** long-horizon agent reliability proof · DFlash/NVFP4 **not** day-0 flagship | Aug 3 20:00 WIB | [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic) |
+| 1 | **Laguna-S-2.1** | Long-horizon **repo-maintenance** · official **Q4_K_M** | **Measured** path on Q4_K_M + llama.cpp **04b2b72** · tip **bf82eab** (measure; docs tip advances separately) · format/routing smoke 40/40 · hermes 27/27 · ~21.47 t/s gen128 · **not** long-horizon agent reliability proof · DFlash/NVFP4 **not** day-0 flagship | Aug 3 20:00 WIB | [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic) |
 | 2 | **Qwen3-Coder-Next** | Interactive **throughput + concurrency** · quality **FP8** | FP8 profile / preview probe · NVFP4 agent-cal = **post-launch** track only | Aug 4 20:00 WIB | [HF](https://huggingface.co/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) · [GH](https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) |
 | 3 | **DeepSeek-V4-Flash-REAP25** | Experimental **long-context investigation** · REAP25/Pulsar (~85 GiB) | Full official ~155 GiB **no-fit** one Spark · unmeasured scaffold · **NO_HERO** | **null** (no default hero) | [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic) · [GH](https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic) |
 
@@ -68,4 +72,4 @@ Each pack carries upstream license text and `NOTICE`.
 Questions on **these personal packs only:** open a discussion on the relevant HF repo.
 
 ---
-*Index rebuilt 2026-07-30T19:30:12+07:00 (A3 local Q4 authority) · GitHub mirror: [hizrianraz/profile](https://github.com/hizrianraz/profile) · HF: [hizrianraz/profile](https://huggingface.co/hizrianraz/profile)*
+*Index rebuilt 2026-07-30T21:10:42+07:00 (A3 origin tips + measure tip split) · GitHub mirror: [hizrianraz/profile](https://github.com/hizrianraz/profile) · HF: [hizrianraz/profile](https://huggingface.co/hizrianraz/profile)*
