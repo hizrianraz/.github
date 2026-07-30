@@ -59,7 +59,6 @@ Rule: **official quant bytes** (no boutique re-quant) + **pinned engine** + **fi
 | Track | Intent |
 |-------|--------|
 | **Neptune** `27B` + quant SKUs | Open proof Core and same-net edge quant delivery when certificates clear |
-| **Neptune Finance-70B** | Closed **agentic** finance specialist — tools, audit artifacts, compliance stops |
 | **Ainfera Factory** | Admit → pilot/train → seal → certificate → claim |
 
 Claims stay inside a **preregistered local-agent class** — size, hardware, VRAM, latency, harness, quant — never unqualified “best model.”
