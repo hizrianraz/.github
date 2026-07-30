@@ -39,31 +39,35 @@ Agents help build. **Humans gate what ships.**
 
 ---
 
-### Public Spark packs — Aug 3 2026 (personal)
+### Public Spark packs — list Aug 3 · promote Aug 3–5 (personal)
 
 Independent runtime packs on DGX Spark. **Not** Ainfera product marketing.  
-`public_promo_before_launch: false` until **2026-08-03 12:00 WIB** (freeze **2026-08-02 18:00 WIB**).  
-`diy_gguf: false` — official upstream bytes only.
+**List** all three + collection: **2026-08-03 12:00 WIB**.  
+**Hero CTAs (sequential):** Laguna **Aug 3 20:00** → Qwen **Aug 4 20:00** → DeepSeek **Aug 5 20:00** only if evidence gate.  
+`public_promo_before_launch: false` · freeze **2026-08-02 18:00 WIB**.  
+`diy_gguf: false` — official upstream bytes only. Packs host **runbooks + harness + receipts**, not weight files.
 
-| Order | Pack | Role | Proof | Links |
-|------:|------|------|-------|-------|
-| 1 | **Laguna-S-2.1** | **Flagship measured** | **40/40** agent_smoke (tool-format / routing regression) | [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic) |
-| 2 | **Qwen3-Coder-Next** | **Co-ship probe** | **2/2 probe** — not a ship / gate claim | [HF](https://huggingface.co/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) · [GH](https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) |
-| 3 | **DeepSeek-V4-Flash** | **Co-list scaffold** | **Unmeasured** — public docs surface, no ship claim | [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-Spark-Agentic) · [GH](https://github.com/hizrianraz/DeepSeek-V4-Flash-Spark-Agentic) |
+| Order | Pack | Role | Proof | Hero CTA | Links |
+|------:|------|------|-------|----------|-------|
+| 1 | **Laguna-S-2.1** | **Flagship measured** | **40/40** agent_smoke (tool-format / routing) | Aug 3 20:00 WIB | [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) · [GH](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic) |
+| 2 | **Qwen3-Coder-Next** | **Second-wave probe** | **2/2 probe** — not ship / gate claim | Aug 4 20:00 WIB | [HF](https://huggingface.co/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) · [GH](https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) |
+| 3 | **DeepSeek-V4-Flash** | **Experimental / hold** | **Unmeasured** until gate — docs + harness | Aug 5 20:00 only if gate | [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-Spark-Agentic) · [GH](https://github.com/hizrianraz/DeepSeek-V4-Flash-Spark-Agentic) |
 
 **Weights authority (not this account):**  
-[poolside/Laguna-S-2.1-GGUF](https://huggingface.co/poolside/Laguna-S-2.1-GGUF) · [Qwen/Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) · [deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)
+[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) · [poolside/Laguna-S-2.1-GGUF](https://huggingface.co/poolside/Laguna-S-2.1-GGUF) · [Qwen/Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) · [deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)
 
 Optional Laguna-S GGUF mirror (byte-identical upstream · not re-quantized here): [hizrianraz/Laguna-S-2.1-GGUF](https://huggingface.co/hizrianraz/Laguna-S-2.1-GGUF)
 
-Collection: [DGX Spark Agentic Deployment Packs](https://huggingface.co/collections/hizrianraz/dgx-spark-agentic-deployment-packs-6a6a3110ad1c4397372a3ef6)
+Collection (rename at list): [Three Frontier Coding Models on One DGX Spark](https://huggingface.co/collections/hizrianraz/dgx-spark-agentic-deployment-packs-6a6a3110ad1c4397372a3ef6)
 
 **Honesty**
 
 - Deployment packs are **runbooks + harness + receipts**, not loadable checkpoints  
+- Download counters on packs may stay **0** — Hub counts designated weight/file GETs, not scripts  
 - Sole flagship measured claim = **Laguna S**  
 - Qwen probe ≠ gate clearance · DeepSeek co-list ≠ measured ship  
 - Verifier ≠ gate clearance  
+- No incentivized likes · no dummy download loops  
 - Mirrors never set `quantized_by: hizrianraz`
 
 Parked / lab-only (not Aug 3 ship surface): Laguna-XS Mac, Qwen3-Coder-30B-A3B Mac.
