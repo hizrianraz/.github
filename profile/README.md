@@ -23,6 +23,7 @@ On the side: personal measured packs for one box. Receipts over hype.
 <br/>
 
 [![Ainfera](https://img.shields.io/badge/Ainfera-AI--Native_model_factory-0B1020?style=for-the-badge&labelColor=111827)](https://www.ainfera.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hizrian--raz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hizrian-raz)
 [![X](https://img.shields.io/badge/X-@hizrianraz-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hizrianraz)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-hizrianraz-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/hizrianraz)
 [![GitHub](https://img.shields.io/badge/GitHub-hizrianraz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hizrianraz)
@@ -190,6 +191,7 @@ Static links only — no third-party stats widgets (those CDN pins break and sho
 <p align="center">
   <a href="https://github.com/hizrianraz?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/GitHub-public_repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" /></a>
   <a href="https://github.com/ainfera-ai"><img alt="Ainfera org" src="https://img.shields.io/badge/Org-ainfera--ai-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" /></a>
+  <a href="https://www.linkedin.com/in/hizrian-raz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hizrian--raz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" /></a>
   <a href="https://huggingface.co/hizrianraz"><img alt="HF" src="https://img.shields.io/badge/HF-hizrianraz-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0B1020" /></a>
   <a href="https://x.com/hizrianraz"><img alt="X" src="https://img.shields.io/badge/X-@hizrianraz-111827?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1020" /></a>
 </p>
@@ -198,6 +200,7 @@ Static links only — no third-party stats widgets (those CDN pins break and sho
 | --- | --- |
 | Personal packs | [github.com/hizrianraz](https://github.com/hizrianraz) |
 | Company | [ainfera.ai](https://www.ainfera.ai) · [@ainfera-ai](https://github.com/ainfera-ai) |
+| LinkedIn | [linkedin.com/in/hizrian-raz](https://www.linkedin.com/in/hizrian-raz) |
 | Models | [huggingface.co/hizrianraz](https://huggingface.co/hizrianraz) |
 | Profile binder | [`SPARK_AGENTIC_QUANT_STANDARD.md`](./SPARK_AGENTIC_QUANT_STANDARD.md) |
 
@@ -208,6 +211,7 @@ Static links only — no third-party stats widgets (those CDN pins break and sho
 | | |
 | --- | --- |
 | **Company** | [ainfera.ai](https://www.ainfera.ai) · [@ainfera-ai](https://github.com/ainfera-ai) |
+| **LinkedIn** | [linkedin.com/in/hizrian-raz](https://www.linkedin.com/in/hizrian-raz) |
 | **Models** | [huggingface.co/hizrianraz](https://huggingface.co/hizrianraz) |
 | **HF profile space** | [huggingface.co/hizrianraz/hizrianraz](https://huggingface.co/hizrianraz/hizrianraz) |
 | **Pack questions** | open a discussion on the relevant HF repo |
