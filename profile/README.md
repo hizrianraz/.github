@@ -89,17 +89,19 @@ I'm a founder who cares more about **what actually runs** than what trends.
 
 ## Focus right now
 
-Building **Ainfera** and **StudioTune**. StudioTune is a beta platform for shaping model behavior across Desktop, Tune Agent, and CLI.
+Building **[Ainfera](https://www.ainfera.ai)** and **StudioTune** — a beta platform for shaping model behavior.
+
+StudioTune has three connected surfaces:
+
+| Product | Purpose | Status |
+| --- | --- | --- |
+| **[StudioTune Desktop](https://studiotune.ai)** | Visual workspace for shaping, comparing, and reviewing model behavior | **Beta release** |
+| **Tune Agent** | Guided proposal layer that turns a model goal into a clear path | **Beta release · proposal-only** |
+| **StudioTune CLI** | Local, scriptable interface for repeatable model workflows | **Beta release** |
 
 **Mercury** is an iPhone-fit fine-tuned model derived from Qwen3.8-27B. It is **in training**; device, quality, and release validation remain pending.
 
-Personal deployment packs below are separate, unaffiliated work. Receipts over hype.
-
-| # | Pack | Role (honest) | Status |
-| :---: | --- | --- | --- |
-| 01 | **[Laguna-S-2.1](https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/Laguna-S-2.1-Spark-Agentic) | Repo-maintenance deployment target · official Q4_K_M | Historical measured path · source candidate · freeze pending |
-| 02 | **[Qwen3-Coder-Next](https://github.com/hizrianraz/Qwen3-Coder-Next-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/Qwen3-Coder-Next-Spark-Agentic) | Interactive coding · official FP8 | **Preview** · exact runtime model-load pending |
-| 03 | **[DeepSeek-V4-Flash REAP25](https://github.com/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic)** · [HF](https://huggingface.co/hizrianraz/DeepSeek-V4-Flash-REAP25-Spark-Agentic) | Research pointer · REAP25/Pulsar reference | Docs-only **HOLD / NO_HERO** |
+StudioTune is the product. Mercury is a separate model track. Evidence before hype.
 
 <p align="center">
   <a href="https://github.com/hizrianraz/Laguna-S-2.1-Spark-Agentic"><img alt="Laguna-S Spark" src="https://img.shields.io/badge/01_Laguna--S--2.1-Freeze_candidate-22C55E?style=for-the-badge&labelColor=0B1020" /></a>
