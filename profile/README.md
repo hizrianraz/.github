@@ -17,12 +17,12 @@
 
 ### Philosopher · Wanderer · Neurodivergent · Founder
 
-Building **[Ainfera](https://www.ainfera.ai)** — an **AI-Native model factory**.  
-On the side: personal deployment packs for one box. Only Laguna is measured; receipts over hype.
+Building **[Ainfera](https://www.ainfera.ai)** — creating **StudioTune**, a beta platform for shaping model behavior.  
+StudioTune brings together Desktop, Tune Agent, and CLI. **Mercury** is an iPhone-fit model track derived from Qwen3.8-27B and remains in training; validation is pending.
 
 <br/>
 
-[![Ainfera](https://img.shields.io/badge/Ainfera-AI--Native_model_factory-0B1020?style=for-the-badge&labelColor=111827)](https://www.ainfera.ai)
+[![Ainfera](https://img.shields.io/badge/Ainfera-StudioTune_beta-0B1020?style=for-the-badge&labelColor=111827)](https://www.ainfera.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hizrian--raz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hizrian-raz)
 [![X](https://img.shields.io/badge/X-@hizrianraz-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hizrianraz)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-hizrianraz-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/hizrianraz)
@@ -41,8 +41,9 @@ On the side: personal deployment packs for one box. Only Laguna is measured; rec
 
 I'm a founder who cares more about **what actually runs** than what trends.
 
-- I build **Ainfera** — an AI-Native model factory (company work lives under [@ainfera-ai](https://github.com/ainfera-ai)).
-- I publish **personal, unaffiliated measurement packs** so one DGX Spark stays reproducible.
+- I build **Ainfera** and **StudioTune** — a beta platform for shaping model behavior (company work lives under [@ainfera-ai](https://github.com/ainfera-ai)).
+- StudioTune includes a Desktop workspace, Tune Agent, and CLI.
+- **Mercury** is an iPhone-fit model track derived from Qwen3.8-27B; it is in training and validation is pending.
 - I optimize for **evidence, clarity, and long-horizon craft** — not launch theater.
 
 > Packs here are **not** company IP, **not** finetunes, and **not** invented numbers.
@@ -88,10 +89,11 @@ I'm a founder who cares more about **what actually runs** than what trends.
 
 ## Focus right now
 
-Personal deployment stack on **one DGX Spark** (GB10 · 128 GB). Only Laguna currently has family measurement authority.
+Building **Ainfera** and **StudioTune**. StudioTune is a beta platform for shaping model behavior across Desktop, Tune Agent, and CLI.
 
-Scripts · pins · cards · eval receipts.  
-**Not finetunes. Not company IP. Not stretch claims.**
+**Mercury** is an iPhone-fit fine-tuned model derived from Qwen3.8-27B. It is **in training**; device, quality, and release validation remain pending.
+
+Personal deployment packs below are separate, unaffiliated work. Receipts over hype.
 
 | # | Pack | Role (honest) | Status |
 | :---: | --- | --- | --- |
@@ -146,7 +148,7 @@ format/routing smoke 40/40 · Hermes 27/27 **validated-not-executed** · ~21.47 
 ## Operating system
 
 ```text
-measure  →  pin  →  publish receipts  →  refuse the stretch claim
+shape  →  test  →  verify  →  publish only what the evidence supports
 ```
 
 | Principle | In practice |
@@ -225,8 +227,8 @@ Static links only — no third-party stats widgets (those CDN pins break and sho
 **Thanks for reading this far.**
 
 <sub>
-Personal · unaffiliated measurement surface · not Ainfera product IP  
-Polished 2026-07-30 · Laguna measure authority <code>bf82eab</code>
+Ainfera / StudioTune · Mercury status: in training · validation pending  
+Personal deployment packs remain separate and unaffiliated
 </sub>
 
 </div>
