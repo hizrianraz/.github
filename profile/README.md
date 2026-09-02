@@ -7,7 +7,7 @@
 
 ```text
     __  ______
-   / / / / __ \
+    10|   / / / / __ \
   / /_/ / /_/ /
  / __  / _, _/
 /_/ /_/_/ |_|
@@ -17,12 +17,11 @@
 
 ### Philosopher · Wanderer · Neurodivergent · Founder
 
-Building **[Ainfera](https://www.ainfera.ai)** — creating **StudioTune**, a beta platform for shaping model behavior.  
-StudioTune brings together Desktop, Tune Agent, and CLI. **Mercury** is an iPhone-fit model track derived from Qwen3.8-27B and remains in training; validation is pending.
+Building **[Ainfera](https://www.ainfera.ai)** — an AI & robotics lab. Current work spans embodied agents on **Reachy Mini** and vertical model cards for finance and legal.
 
 <br/>
 
-[![Ainfera](https://img.shields.io/badge/Ainfera-StudioTune_beta-0B1020?style=for-the-badge&labelColor=111827)](https://www.ainfera.ai)
+[![Ainfera](https://img.shields.io/badge/Ainfera-AI_%26_Robotics-0B1020?style=for-the-badge&labelColor=111827)](https://www.ainfera.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hizrian--raz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hizrian-raz)
 [![X](https://img.shields.io/badge/X-@hizrianraz-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hizrianraz)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-hizrianraz-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/hizrianraz)
@@ -41,27 +40,28 @@ StudioTune brings together Desktop, Tune Agent, and CLI. **Mercury** is an iPhon
 
 I'm a founder who cares more about **what actually runs** than what trends.
 
-- I build **Ainfera** and **StudioTune** — a beta platform for shaping model behavior (company work lives under [@ainfera-ai](https://github.com/ainfera-ai)).
-- StudioTune includes a Desktop workspace, Tune Agent, and CLI.
-- **Mercury** is an iPhone-fit model track derived from Qwen3.8-27B; it is in training and validation is pending.
+- I build **Ainfera** — company work lives under [@ainfera-ai](https://github.com/ainfera-ai).
+- Current threads: embodied agents on **Reachy Mini** (Grok Reachy, Hermes Reachy) and vertical model tracks for finance (**Hermes**, **Mercury**) and legal (**Selene**).
+- Model cards are published without weights. Reachy Mini work lives as Hugging Face Spaces.
 - I optimize for **evidence, clarity, and long-horizon craft** — not launch theater.
 
-> Packs here are **not** company IP, **not** finetunes, and **not** invented numbers.
+> Nothing here claims weights, benchmarks, launches, or traction.
 
 ---
-## StudioTune
 
-Ainfera is building **StudioTune**, a beta platform for shaping model behavior.
+## Products
 
-| Product | Purpose | Status |
+Five current threads at Ainfera. Two embodied agents on Reachy Mini, three vertical model cards.
+
+| Product | Purpose | Link |
 | --- | --- | --- |
-| **[StudioTune Desktop](https://studiotune.ai)** | Visual workspace for shaping, comparing, and reviewing model behavior | **Beta release** |
-| **Tune Agent** | Guided proposal layer that turns a model goal into a clear path | **Beta release · proposal-only** |
-| **StudioTune CLI** | Local, scriptable interface for repeatable model workflows | **Beta release** |
+| **Grok Reachy** | Grok Bot embodied on Reachy Mini | [Space](https://huggingface.co/spaces/ainfera-ai/grok-reachy) |
+| **Hermes Reachy** | Hermes agent embodied on Reachy Mini | [Space](https://huggingface.co/spaces/ainfera-ai/hermes-reachy) |
+| **Hermes** | Finance desk model, Spark-trained | [Card](https://huggingface.co/ainfera-ai/hermes) · no weights |
+| **Selene** | iPhone legal-action model, Spark-trained | [Card](https://huggingface.co/ainfera-ai/selene) · no weights |
+| **Mercury** | Finance-vertical filing desk | [Card](https://huggingface.co/ainfera-ai/mercury) · no weights |
 
-**Mercury** is an iPhone-fit fine-tuned model derived from Qwen3.8-27B. It is **in training**; device, quality, and release validation remain pending.
-
-StudioTune is the product. Mercury is a separate model track. Evidence before hype.
+Reachy Mini Spaces are demonstration surfaces. Model cards describe intent and shape only; no weights are published.
 
 ---
 
@@ -70,10 +70,10 @@ StudioTune is the product. Mercury is a separate model track. Evidence before hy
 | | |
 | --- | --- |
 | **Company** | [ainfera.ai](https://www.ainfera.ai) · [@ainfera-ai](https://github.com/ainfera-ai) |
-| **StudioTune** | [studiotune.ai](https://studiotune.ai) |
+| **Org models** | [huggingface.co/ainfera-ai](https://huggingface.co/ainfera-ai) |
 | **Investor deck** | [ainfera.ai/deck](https://ainfera.ai/deck) |
 | **LinkedIn** | [linkedin.com/in/hizrian-raz](https://www.linkedin.com/in/hizrian-raz) |
-| **Models** | [huggingface.co/hizrianraz](https://huggingface.co/hizrianraz) |
+| **Personal HF** | [huggingface.co/hizrianraz](https://huggingface.co/hizrianraz) |
 
 ---
 
@@ -82,7 +82,7 @@ StudioTune is the product. Mercury is a separate model track. Evidence before hy
 **Thanks for reading this far.**
 
 <sub>
-Ainfera / StudioTune · Mercury status: in training · validation pending
+Ainfera · Grok Reachy · Hermes Reachy · Hermes · Selene · Mercury
 </sub>
 
 </div>
